@@ -1,1 +1,3 @@
-# amity-test-1
+# README #
+
+Amity 
